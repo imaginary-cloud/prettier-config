@@ -1,9 +1,10 @@
 # @imaginary-cloud/prettier-config
+Quickly format your JavaScript files with this easy to install and use Prettier configuration
 
 ## Purpose
-[Prettier](https://prettier.io/) is an opinionated code formatter easy to configure and integrate with Code Editors. This configuration aims to quickly install and config JavaScript projects for a consistent code style standards.
+[Prettier](https://prettier.io/) is an opinionated code formatter easy to configure and integrate with Code Editors. This configuration aims to quickly install and config JavaScript projects for consistent code style standards.
 
-This package can be used as a stand-alone config or if you look to integrate with eslint for React projects take a look our [ESLint config package](https://github.com/imaginary-cloud/eslint-config-react) using this Prettier configuration
+This package can be used as a stand-alone config or if you look to integrate with [ESLint](https://eslint.org/) for React projects take a look at our [ESLint config package](https://github.com/imaginary-cloud/eslint-config-react) using this Prettier configuration
 
 ## How to install
 ```
