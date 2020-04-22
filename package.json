@@ -4,8 +4,9 @@
   "description": "Prettier config",
   "main": "index.js",
   "author": "Imaginary Cloud",
-  "license": "ISC",
+  "license": "MIT",
   "keywords": [
+    "javascript",
     "prettier",
     "prettier-config",
     "prettierconfig",
