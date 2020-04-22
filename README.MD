@@ -16,6 +16,10 @@ In your `package.json` add:
 "prettier": "@imaginary-cloud/prettier-config"
 ```
 Under script objects
+```
+"format": "prettier --write \"{,!(node_modules)/**/}*.js\""
+```
+
 ## Contributing
 How to [contribute](/CONTRIBUTING.MD) to this open source library
 
